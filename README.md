@@ -1,37 +1,20 @@
-<div align="center">
-  <img height="200" src="https://user-images.githubusercontent.com/26696962/207142298-628de0b8-809c-4b59-aa2d-a610589101d5.jpg"  />
-</div>
+<h1 align="center">Hello 👋, I'm Wiktor</h1>
+<h3 align="center">A student from Poland.</h3>
 
-###
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=wrzepka&label=Profile%20views&color=ff0000&style=flat" alt="wrzepka" /> </p>
 
-<h1 align="left">🌠About Me:</h1>
+- 💻 I’m currently working on [AZP88 - simple task planner](https://github.com/AZC88-Labs/AZP88)
 
-###
+- 🌱 I’m currently learning **Python, FastAPI, CS50, C**
 
-<p align="left">📖Currently, I'm learning C and Python.</p>
+- 💻 and [Lodzkie Grajace - e-sport event website](https://github.com/yagatho/esport-event-website)
 
-###
+- ⚡ Fun fact **penguins have knees**
 
-<h1 align="left">💻Tech stack:</h1>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/wiktorrzepka04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wiktorrzepka04" height="30" width="40" /></a>
+</p>
 
-###
-
-<div align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge" height="40" alt="c logo"  />
-</div>
-
-###
-
-<h1 align="left">📊 GitHub Stats:</h1>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wrzepka&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wrzepka&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=wrzepka&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
-</div>
-
-###
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
