@@ -5,9 +5,9 @@
 
 - 💻 I’m currently working on [AZP88 - simple task planner](https://github.com/AZC88-Labs/AZP88)
 
-- 🌱 I’m currently learning **Python, FastAPI, CS50, C**
-
 - 💻 and [Lodzkie Grajace - e-sport event website](https://github.com/yagatho/esport-event-website)
+
+- 🌱 I’m currently learning **Python, FastAPI, CS50, C**
 
 - ⚡ Fun fact **penguins have knees**
 
