@@ -1,20 +1,53 @@
-<h1 align="center">Hello 👋, I'm Wiktor</h1>
-<h3 align="center">A student from Poland.</h3>
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=wrzepka.wrzepka&"  />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wrzepka&label=Profile%20views&color=ff0000&style=flat" alt="wrzepka" /> </p>
+###
 
-- 💻 I’m currently working on [AZP88 - simple task planner](https://github.com/AZC88-Labs/AZP88)
+<h1 align="left">Hey 👋 What's up?</h1>
 
-- 💻 and [Lodzkie Grajace - e-sport event website](https://github.com/yagatho/esport-event-website)
+###
 
-- 🌱 I’m currently learning **Python, FastAPI, CS50, C**
+<p align="left">My name is Wiktor and I'm a CS student from Poland!</p>
 
-- ⚡ Fun fact **penguins have knees**
+###
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/wiktorrzepka04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wiktorrzepka04" height="30" width="40" /></a>
-</p>
+<h2 align="left">About me</h2>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+###
+
+<p align="left">✨ Creating bugs since 2024<br>📚 Currently learning JavaScript and diving deep into backend development<br>🎯 Goal: become a backend developer with a DevOps mindset<br>🎲 Fun fact: I have Stockholm syndrome with the C language</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+</div>
+
+###
+
+<h2 align="left">Social media</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/wrzepka/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/WiktorRzepka04" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://discordapp.com/users/421926835576766467" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+</div>
+
+###
